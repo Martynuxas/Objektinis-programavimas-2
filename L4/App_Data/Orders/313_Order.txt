@@ -1,0 +1,8 @@
+Jogurtas;3;1.20
+Fanta;3;1.45
+Vanduo;1;1.15
+Alus;5;1.15
+Vycka;10;1.20
+Stalas;3;23.01
+Laidas;3;3
+Staltiese;5;12

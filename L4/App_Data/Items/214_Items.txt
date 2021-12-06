@@ -1,0 +1,5 @@
+214
+Coca cola;15;1.35
+Sprite;35;1.85
+Fanta;14;1.35
+Salono kvapukas;5;1.50

@@ -1,0 +1,2 @@
+Jogurtas;3;1.20
+Fanta;3;1.45
