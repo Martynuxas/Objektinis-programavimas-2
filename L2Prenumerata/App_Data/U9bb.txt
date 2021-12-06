@@ -1,0 +1,4 @@
+﻿1;Lukošius;Ramūnas;Sodų g. 12;868456785
+2;Petraitienė;Vitalija;Liepų g. 53;861254625
+3;Jurkus;Edvinas;Taikos g. 68;864444785
+4;Jurkus;Artūras;Taikos g. 11;861553721
