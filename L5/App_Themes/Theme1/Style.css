@@ -1,0 +1,71 @@
+﻿body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    font-size: 20px;
+}
+
+#ValidationSummary1 {
+    color: red;
+}
+
+#Label8 {
+    color: #000099;
+    font-weight: bold;
+    font-size: x-large;
+    margin-right: auto;
+    margin-left: auto;
+}
+#Label13 {
+    color: #008000;
+}
+#Label6 {
+    color: white;
+}
+#Label5 {
+    color: white;
+}
+#Label7 {
+    color: white;
+}
+#Table1 {
+    border: 5px solid #000099;
+    border-spacing: 5px;
+    background-color: #CCFFFF;
+}
+
+th, td {
+    padding: 5px;
+}
+
+#Table2 {
+    border: 5px solid #000099;
+    border-collapse: collapse;
+    background-color: #CCFFFF;
+}
+
+#Label11 {
+    font-weight: bold;
+    font-size: x-large;
+    color: red;
+}
+
+#Table4 {
+    background-color: #FBBFC0;
+    border: 5px solid red;
+    line-grid: create;
+}
+
+#Table3 {
+    background-color: #FBBFC0;
+    border: 5px solid red;
+}
+
+#Table5 {
+    background-color: #FBBFC0;
+    border: 3px solid red;
+}
+
+#Table6 {
+    background-color: #FBBFC0;
+    border: 3px solid red;
+}

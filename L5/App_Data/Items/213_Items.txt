@@ -1,0 +1,5 @@
+213
+Jogurtas;5;1.20
+Suris;25;1.15
+Fanta;10;1.50
+Margarinas;3;1.38

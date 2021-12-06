@@ -1,0 +1,5 @@
+215
+Langu skystis;8;2.30
+Salono kvapukas;2;1.10
+Slapios serveteles;5;3.20
+Margarinas;2;1.48
