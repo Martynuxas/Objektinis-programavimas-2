@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<kalbos>
+  <kalba pavadinimas="-"/>
+  <kalba pavadinimas="sausis"/>
+  <kalba pavadinimas="vasaris"/>
+  <kalba pavadinimas="kovas"/>
+  <kalba pavadinimas="balandis"/>
+  <kalba pavadinimas="gegužė"/>
+  <kalba pavadinimas="birželis"/>
+  <kalba pavadinimas="liepa"/>
+  <kalba pavadinimas="rugpjūtis"/>
+  <kalba pavadinimas="rugsėjis"/>
+  <kalba pavadinimas="spalis"/>
+  <kalba pavadinimas="lapkritis"/>
+  <kalba pavadinimas="gruodis"/>
+</kalbos>
