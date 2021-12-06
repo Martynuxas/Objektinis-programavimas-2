@@ -5,7 +5,7 @@ namespace L2Prenumerata
     /// <summary>
     /// Agento duomenu klase
     /// </summary>
-    public class Agentas
+    public class Agentas : IComparable<Agentas>
     {
         public string Kodas { get; set; }
         public string Pavarde { get; set; }
@@ -22,6 +22,15 @@ namespace L2Prenumerata
             Vardas = vardas;
             Adresas = adresas;
             TelNr = telNr;
+        }
+        public int CompareTo(Agentas kitas)
+        {
+            int rezultatas = kitas.Kodas.CompareTo(Kodas);
+
+            if (kitas.Kodas == Kodas)
+                rezultatas = Kodas.CompareTo(kitas.Kodas);
+
+            return rezultatas;
         }
         public override string ToString()
         {
